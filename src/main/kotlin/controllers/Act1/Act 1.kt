@@ -22,7 +22,7 @@ fun main() {
 }
 
 /**
- * Abre una Scanner para leer la entrada del usuario.
+ * Abre una Scanner para leer la entrada del usuario
  * @return un objeto Scanner
  */
 fun abrirScanner(): Scanner {

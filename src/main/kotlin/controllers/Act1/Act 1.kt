@@ -13,9 +13,10 @@ fun main() {
 
     // Llamadas a las funciones adicionales
     mostrarPuntos(punto)  // Mostrar el punto
-    sumarPuntos(scanner, punto)  // Sumar coordenadas al punto
-    escalarPuntos(scanner, punto)  // Escalar el punto por un valor
-    comparaPuntos(scanner, punto)  // Comparar el punto con otro
+    sumarPuntos(punto, punto)  // Sumar coordenadas al punto
+    mostrarPuntos(punto)
+    escalarPuntos(punto, punto, punto)  // Escalar el punto por un valor
+    comparaPuntos(punto, punto, punto, punto)  // Comparar el punto con otro
 
     cerrarScanner(scanner)
 }
@@ -60,10 +61,9 @@ fun mostrarPuntos(punto: Punt) {
  * @param scanner el scanner para leer la entrada del usuario
  * @param punto el punto al que se le sumarán las coordenadas
  */
-fun sumarPuntos(scanner: Scanner, punto: Punt) {
-    val a = scanner.nextFloat()
-    val b = scanner.nextFloat()
-    println("${punto.x + a} ${punto.y + b}")
+fun sumarPuntos(puntoA: Punt, puntoB: Punt) {
+    puntoA.x += puntoB.x
+    puntoA.y += puntoB.y
 }
 
 /**
@@ -71,9 +71,8 @@ fun sumarPuntos(scanner: Scanner, punto: Punt) {
  * @param scanner el scanner para leer la entrada del usuario
  * @param punto el punto a escalar
  */
-fun escalarPuntos(scanner: Scanner, punto: Punt) {
-    val a = scanner.nextFloat()
-    println("${punto.x * a} ${punto.y * a}")
+fun escalarPuntos( puntoA: Punt, puntoB: Punt, puntoC: Punt ) {
+    println("${puntoA.x * puntoC.x} ${puntoB.y * puntoC.y}")
 }
 
 /**
@@ -81,10 +80,8 @@ fun escalarPuntos(scanner: Scanner, punto: Punt) {
  * @param scanner el scanner para leer la entrada del usuario
  * @param punto el punto a comparar
  */
-fun comparaPuntos(scanner: Scanner, punto: Punt) {
-    val x2 = scanner.nextFloat()
-    val y2 = scanner.nextFloat()
-    if (punto.x == x2 && punto.y == y2) {
+fun comparaPuntos(puntoA: Punt, puntoB: Punt, puntoC: Punt, puntoD: Punt) {
+    if (puntoA.x == puntoC.x && puntoB.y == puntoD.y) {
         println("Els dos punts són iguals")
     } else {
         println("Els dos punts no són iguals")

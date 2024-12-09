@@ -1,0 +1,43 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:controllers.Act1////PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/index.html
+$dokka.location:controllers.Act1/Act 1Kt///PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/index.html
+$dokka.location:controllers.Act1/Act 1Kt/abrirScanner/#/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/abrir-scanner.html
+$dokka.location:controllers.Act1/Act 1Kt/cerrarScanner/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/cerrar-scanner.html
+$dokka.location:controllers.Act1/Act 1Kt/comparaPuntos/#java.util.Scanner#controllers.Act1.Punt/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/compara-puntos.html
+$dokka.location:controllers.Act1/Act 1Kt/escalarPuntos/#java.util.Scanner#controllers.Act1.Punt/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/escalar-puntos.html
+$dokka.location:controllers.Act1/Act 1Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/main.html
+$dokka.location:controllers.Act1/Act 1Kt/mostrarPuntos/#controllers.Act1.Punt/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/mostrar-puntos.html
+$dokka.location:controllers.Act1/Act 1Kt/pedirXY/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/pedir-x-y.html
+$dokka.location:controllers.Act1/Act 1Kt/sumarPuntos/#java.util.Scanner#controllers.Act1.Punt/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-act 1-kt/sumar-puntos.html
+$dokka.location:controllers.Act1/Punt///PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-punt/index.html
+$dokka.location:controllers.Act1/Punt/Punt/#kotlin.Float#kotlin.Float/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-punt/-punt.html
+$dokka.location:controllers.Act1/Punt/getX/#/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-punt/get-x.html
+$dokka.location:controllers.Act1/Punt/getY/#/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-punt/get-y.html
+$dokka.location:controllers.Act1/Punt/setX/#kotlin.Float/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-punt/set-x.html
+$dokka.location:controllers.Act1/Punt/setY/#kotlin.Float/PointingToDeclaration/-git-hub-classroom-template/controllers.Act1/-punt/set-y.html
+$dokka.location:controllers.Act2////PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/index.html
+$dokka.location:controllers.Act2/Act2 CineKt///PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/index.html
+$dokka.location:controllers.Act2/Act2 CineKt/abrirScanner/#/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/abrir-scanner.html
+$dokka.location:controllers.Act2/Act2 CineKt/cerrarScanner/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/cerrar-scanner.html
+$dokka.location:controllers.Act2/Act2 CineKt/gestionarSala/#kotlin.Array[kotlin.Array[kotlin.Char]]#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/gestionar-sala.html
+$dokka.location:controllers.Act2/Act2 CineKt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/main.html
+$dokka.location:controllers.Act2/Act2 CineKt/mostrarMenu/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/mostrar-menu.html
+$dokka.location:controllers.Act2/Act2 CineKt/reservaAsientos/#kotlin.Array[kotlin.Array[kotlin.Char]]#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/reserva-asientos.html
+$dokka.location:controllers.Act2/Act2 CineKt/vaciaSala/#kotlin.Array[kotlin.Array[kotlin.Char]]/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/vacia-sala.html
+$dokka.location:controllers.Act2/Act2 CineKt/verasientos/#kotlin.Array[kotlin.Array[kotlin.Char]]/PointingToDeclaration/-git-hub-classroom-template/controllers.Act2/-act2 -cine-kt/verasientos.html
+$dokka.location:interfaces////PointingToDeclaration/-git-hub-classroom-template/interfaces/index.html
+$dokka.location:interfaces/MyInterface///PointingToDeclaration/-git-hub-classroom-template/interfaces/-my-interface/index.html
+$dokka.location:models////PointingToDeclaration/-git-hub-classroom-template/models/index.html
+$dokka.location:models/MyModel///PointingToDeclaration/-git-hub-classroom-template/models/-my-model/index.html
+$dokka.location:models/MyModel/MyModel/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/-my-model.html
+$dokka.location:models/MyModel/function/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/function.html
+$dokka.location:utilities////PointingToDeclaration/-git-hub-classroom-template/utilities/index.html
+$dokka.location:utilities/MyUtilsKt///PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/index.html
+$dokka.location:utilities/MyUtilsKt/readSomething/#/PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/read-something.html
+controllers.Act1
+controllers.Act2
+interfaces
+models
+utilities
+
